@@ -14,7 +14,7 @@ function calcularEnvio(subtotal) {
 }
 
 function generarFactura(cliente, items){
-    if (!validarStock){
+    if (!validarStock(items)){
         throw new Error("Falta de stock en algunos productos")
     }
 
