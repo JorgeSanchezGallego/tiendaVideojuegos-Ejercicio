@@ -31,3 +31,18 @@ El alumno actúa como desarrollador backend para implementar la lógica de un pr
 
 ### 4. Integración de Librerías y Control de Flujo
 - **Dayjs
+- **Condicionales:** Implementación de `if/else` para aplicar un descuento del **5%** si la compra supera el umbral de 100€.
+
+### 5. Salida de Información
+- **Template Literals:** Uso de plantillas de cadena (backticks) para generar un resumen del pedido legible, alineado y profesional en formato de ticket de consola.
+
+---
+
+## 🚀 Estructura del Proyecto
+
+- `index.js`: Punto de entrada y gestión de rutas de Express.
+- `src/controllers/factura.controllers.js`: Lógica de procesamiento y funciones de cálculo.
+- `src/config/config.price.js`: Configuración de tasas y reglas de negocio.
+- `src/data/`: Archivos JSON con la persistencia de datos (clientes y carritos).
+
+© 2026 - Jorge Sánchez - Ejercicio de Desarrollo en Entorno Servidor
