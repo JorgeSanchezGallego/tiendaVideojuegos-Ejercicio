@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express()
-const dayjs = require('dayjs')
 const fs = require('fs/promises')
 const { generarFactura } = require('./src/controllers/factura.controllers');
 const PORT = 3000

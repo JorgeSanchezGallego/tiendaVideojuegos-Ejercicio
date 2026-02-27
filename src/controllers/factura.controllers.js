@@ -49,7 +49,7 @@ function generarFactura(cliente, items){
   Descuento aplicado: -${descuento.toFixed(2)}€
   Base Imponible:     ${subtotalConDescuento.toFixed(2)}€
   Tasas (IVA 21%):    +${impuestos.toFixed(2)}€
-  Gastos de envio:      ${gastosEnvio === 0 ? "GRATIS (Nivel alcanzado)" : `+${gastosEnvio.toFixed(2)}€`}
+  Gastos de envio:      ${gastosEnvio === 0 ? "Gratis" : `+${gastosEnvio.toFixed(2)}€`}
 -------------------------------------------------
 💰 TOTAL A PAGAR:      ${total.toFixed(2)}€
 █████████████████████████████████████████████████
