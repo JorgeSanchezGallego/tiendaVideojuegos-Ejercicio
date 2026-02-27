@@ -33,10 +33,9 @@ app.get('/factura/:archivo', async (req, res) => {
 })
 
 app.use((req, res) => {
-    return res.status(404).json("Route not found")
-})
+    return res.status(404).json("Route not found");
+});
 
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en: http://localhost:${PORT}/factura/carrito1`);
-    
-})
+});
