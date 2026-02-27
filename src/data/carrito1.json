@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "Consola PlayStation 5 Pro 1TB",
+        "plataforma": "Hardware",
+        "precio": 799.99,
+        "cantidad": 1,
+        "esFragil": true,
+        "esDigital": false,
+        "stockDisponible": 8
+    },
+    {
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "plataforma": "Nintendo Switch",
+        "precio": 59.90,
+        "cantidad": 1,
+        "esFragil": false,
+        "esDigital": false,
+        "stockDisponible": 25
+    },
+    {
+        "nombre": "Call of duty: Modern Warfare II",
+        "plataforma": "PC",
+        "precio": 50.00,
+        "cantidad": 2,
+        "esFragil": false,
+        "esDigital": true,
+        "stockDisponible": 999
+    }, 
+    {
+        "nombre": "Consola Xbox Series X 1TB",
+        "plataforma": "Hardware",
+        "precio": 499.99,
+        "cantidad": 1,
+        "esFragil": true,
+        "esDigital": false,
+        "stockDisponible": 12
+    },
+    {
+        "nombre": "Mario Kart 8 Deluxe",
+        "plataforma": "Nintendo Switch",
+        "precio": 49.90,
+        "cantidad": 1,
+        "esFragil": false,
+        "esDigital": false,
+        "stockDisponible": 30
+    }, 
+    {
+        "nombre": "Elden Ring",
+        "plataforma": "PC",
+        "precio": 59.99,
+        "cantidad": 1,
+        "esFragil": false,
+        "esDigital": true,
+        "stockDisponible": 999
+    }
+]
